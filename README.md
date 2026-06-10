@@ -43,6 +43,7 @@ it store camping gear and food supplies
 https://github.com/florahmabotsa-byte/CommanderCampsite/blob/main/Screenshot%202026-06-10%20135133.pnghttps://github.com/florahmabotsa-byte/CommanderCampsite/blob/main/Screenshot%202026-06-10%20135237.png
 
 
-
+App by 
+flora mabotsa
 
 
